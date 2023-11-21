@@ -1,8 +1,18 @@
+Date: Wed Nov 22 01:24:38 2023 +0300
+React Native project and Firebase configurations are successfully installed on iOS simulator.
+
+- React Native Vector Icons usage is somewhat itchy, cumbersome but handled successfully. My notes are in OneNote for further usage in future.
+- Pod install and Podfile configuration are also problematic. It caused me to factory reset my Macbook Pro, remove nearly all not business (development) related apps and configuration and set all development environment from scratch. But thank Allah, it worked eventually so I did'n have to buy a new device.
+
+Next steps: hopefully using Firebase modules in iOS and Android projects without wasting time anymore.
+
+---
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
