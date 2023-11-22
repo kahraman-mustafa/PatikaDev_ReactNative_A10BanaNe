@@ -1,6 +1,8 @@
+import auth from '@react-native-firebase/auth';
 import {Formik} from 'formik';
-import React from 'react';
+import React, {useState} from 'react';
 import {SafeAreaView, Text} from 'react-native';
+import {MessageType, showMessage} from 'react-native-flash-message';
 import * as Yup from 'yup';
 import {SIGN_PAGE} from '../../../../router/routes';
 import Button from '../../../components/Button';
@@ -36,12 +38,43 @@ const initialFormValues: FormValues = {
 };
 
 const Login = ({navigation}) => {
-  const handleLogin = (formValues: FormValues) => {
-    console.log(formValues);
+  const [loading, setloading] = useState(false);
+
+  const handleLogin = async (formValues: FormValues) => {
+    try {
+      setloading(true);
+      const response = await auth().signInWithEmailAndPassword(
+        formValues[e_FormInputs.email],
+        formValues[e_FormInputs.password],
+      );
+      showFlashMessage({
+        message: JSON.stringify(response),
+        type: 'success',
+      });
+      setloading(false);
+    } catch (error) {
+      console.log(error);
+      showFlashMessage({message: error.toString(), type: 'danger'});
+      setloading(false);
+    }
   };
 
   const handleSignup = () => {
+    console.log('Signin tapped');
     navigation.navigate(SIGN_PAGE);
+  };
+
+  const showFlashMessage = ({
+    message = 'Hata ile karşılaşıldı',
+    type = 'danger',
+  }: {
+    message?: string;
+    type?: MessageType;
+  }) => {
+    showMessage({
+      message,
+      type,
+    });
   };
 
   return (
@@ -50,21 +83,27 @@ const Login = ({navigation}) => {
       <Formik
         validationSchema={LoginSchema}
         initialValues={initialFormValues}
-        onSubmit={handleLogin}>
-        {({values, handleChange, handleSubmit}) => (
+        onSubmit={values => handleLogin(values)}>
+        {({values, handleChange, handleSubmit, errors, touched}) => (
           <>
             <Input
               value={values.email}
               placeholder="Enter e-mail..."
               onChangeText={handleChange(e_FormInputs.email)}
             />
+            {errors[e_FormInputs.email] && touched[e_FormInputs.email] ? (
+              <Text style={styles.error}>{errors[e_FormInputs.email]}</Text>
+            ) : null}
             <Input
               isSecure={true}
               value={values.password}
               placeholder="Enter password..."
               onChangeText={handleChange(e_FormInputs.password)}
             />
-            <Button title="Login" onPress={handleSubmit} />
+            {errors[e_FormInputs.password] && touched[e_FormInputs.password] ? (
+              <Text style={styles.error}>{errors[e_FormInputs.password]}</Text>
+            ) : null}
+            <Button title="Login" onPress={handleSubmit} loading={loading} />
           </>
         )}
       </Formik>

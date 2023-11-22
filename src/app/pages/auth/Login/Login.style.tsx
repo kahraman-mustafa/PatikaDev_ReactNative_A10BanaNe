@@ -12,4 +12,10 @@ export default StyleSheet.create({
     flex: 1,
     padding: 4,
   },
+  error: {
+    paddingLeft: 4,
+    fontSize: 12,
+    color: '#ba1a1a',
+    marginHorizontal: 10,
+  },
 });

@@ -56,7 +56,7 @@ const Sign = ({navigation}) => {
       <Formik
         validationSchema={LoginSchema}
         initialValues={initialFormValues}
-        onSubmit={handleSignup}>
+        onSubmit={values => handleSignup(values)}>
         {({values, handleSubmit, handleChange}) => (
           <>
             <Input

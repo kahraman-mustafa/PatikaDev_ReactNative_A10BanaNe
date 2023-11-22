@@ -1,6 +1,7 @@
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
 import React from 'react';
+import FlashMessage from 'react-native-flash-message';
 import Login from '../app/pages/auth/Login';
 import Sign from '../app/pages/auth/Sign';
 import {stackNavOpts} from './options';
@@ -24,6 +25,7 @@ const Router = () => {
         <Stack.Screen name={AUTH_STACK} component={AuthStack} />
         {/* <Stack.Screen name="SignPage" component={Sign} /> */}
       </Stack.Navigator>
+      <FlashMessage position="top" />
     </NavigationContainer>
   );
 };
