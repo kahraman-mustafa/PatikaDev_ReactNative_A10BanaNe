@@ -1,12 +1,15 @@
-Date: Wed Nov 22 01:24:38 2023 +0300
-React Native project and Firebase configurations are successfully installed on iOS simulator.
+# PatikaDev - React Native Kursu - Firebase Ders İçi Birlikte Yap Projesi
 
-- React Native Vector Icons usage is somewhat itchy, cumbersome but handled successfully. My notes are in OneNote for further usage in future.
-- Pod install and Podfile configuration are also problematic. It caused me to factory reset my Macbook Pro, remove nearly all not business (development) related apps and configuration and set all development environment from scratch. But thank Allah, it worked eventually so I did'n have to buy a new device.
+PatikaDev ReactNative kursu 8. dersi Firebase kapsamında yapılan ders içi birlikte yap çalışmasıdır.
 
-Next steps: hopefully using Firebase modules in iOS and Android projects without wasting time anymore.
+![BanaNe React Native Uygulaması](https://raw.githubusercontent.com/kahraman-mustafa/PatikaDev_ReactNative_A10BanaNe/master/A10BanaNe.gif)
 
----
+- Firebase auth modülü ile kayıt, giriş ve kullanıcı bilgileri
+- Firebase database (Realtime Database) ile veri yönetme ve senkronizasyon
+- **Colors.ts** dosyası ile özel tema
+- **Nested navigation**
+- **Vector icons**
+- Notification on screen: **react-native-falsh-message** component
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
