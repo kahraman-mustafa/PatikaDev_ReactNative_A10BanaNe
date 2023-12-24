@@ -2,9 +2,10 @@ import auth from '@react-native-firebase/auth';
 import {Formik} from 'formik';
 import React, {useState} from 'react';
 import {SafeAreaView, Text} from 'react-native';
-import {MessageType, showMessage} from 'react-native-flash-message';
 import * as Yup from 'yup';
-import {SIGN_PAGE} from '../../../../router/routes';
+import {MESSAGES_PAGE, SIGN_PAGE} from '../../../../router/routes';
+import {showFlashMessage} from '../../../../utils/flashMessageHelper';
+import {authErrorParser} from '../../../../utils/parsers/authErrorParser';
 import Button from '../../../components/Button';
 import {e_ButtonStyles} from '../../../components/Button/Button.style';
 import Input from '../../../components/Input';
@@ -47,34 +48,25 @@ const Login = ({navigation}) => {
         formValues[e_FormInputs.email],
         formValues[e_FormInputs.password],
       );
-      showFlashMessage({
-        message: JSON.stringify(response),
+      console.log(JSON.stringify(response, null, 2));
+      /* showFlashMessage({
         type: 'success',
-      });
+        message: response.user.uid,
+        description: JSON.stringify(response.user.providerData[0], null, 2),
+        duration: 1000,
+      }); */
       setloading(false);
+      navigation.navigate(MESSAGES_PAGE);
     } catch (error) {
       console.log(error);
-      showFlashMessage({message: error.toString(), type: 'danger'});
+      showFlashMessage({message: authErrorParser(error), type: 'danger'});
       setloading(false);
     }
   };
 
   const handleSignup = () => {
-    console.log('Signin tapped');
+    console.log('Signup tapped');
     navigation.navigate(SIGN_PAGE);
-  };
-
-  const showFlashMessage = ({
-    message = 'Hata ile karşılaşıldı',
-    type = 'danger',
-  }: {
-    message?: string;
-    type?: MessageType;
-  }) => {
-    showMessage({
-      message,
-      type,
-    });
   };
 
   return (

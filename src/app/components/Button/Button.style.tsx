@@ -4,6 +4,7 @@ import Colors from '../../../styles/Color';
 export enum e_ButtonStyles {
   fill = 'fill',
   outline = 'outline',
+  inCard = 'inCard',
 }
 
 export type t_StylePref = e_ButtonStyles;
@@ -63,6 +64,34 @@ export default {
     title: {
       ...base_style.title,
       color: Colors.secondary,
+    },
+    title_disabled: {
+      ...base_style.title_disabled,
+      color: Colors.border,
+    },
+  }),
+  inCard: StyleSheet.create({
+    ...base_style,
+    container: {
+      ...base_style.container,
+      paddingVertical: 4,
+      paddingHorizontal: 10,
+      margin: 2,
+      backgroundColor: Colors.container,
+      borderRadius: 20,
+    },
+    icon: {
+      ...base_style.icon,
+      color: Colors.primary,
+    },
+    container_disabled: {
+      ...base_style.container_disabled,
+      backgroundColor: Colors.border,
+    },
+    title: {
+      ...base_style.title,
+      fontSize: 14,
+      color: Colors.primary,
     },
     title_disabled: {
       ...base_style.title_disabled,

@@ -4,10 +4,15 @@ import Colors from '../styles/Color';
 
 export const stackNavOpts: StackNavigationOptions = {
   headerShown: false,
-  headerTitleAlign: 'center',
   headerBackgroundContainerStyle: {backgroundColor: Colors.container},
+  headerTitleAlign: 'center',
   headerTitleStyle: {
     color: Colors.primary,
-    width: Dimensions.get('window').width * 0.6,
+    // backgroundColor: Colors.secondary,
+    width: Dimensions.get('window').width * 0.5,
+    flex: 1,
+    marginVertical: 8,
+    textAlign: 'center',
+    textAlignVertical: 'center',
   },
 };

@@ -1,9 +1,9 @@
-import {StyleSheet} from 'react-native';
+import {Platform, StyleSheet} from 'react-native';
 import Colors from '../../../../styles/Color';
 
 export default StyleSheet.create({
   header: {
-    fontSize: 100,
+    fontSize: Platform.OS === 'android' ? 120 : 160,
     fontWeight: 'bold',
     color: Colors.primary,
     textAlign: 'center',

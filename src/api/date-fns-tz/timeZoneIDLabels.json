@@ -1,0 +1,1310 @@
+{
+  "MIT": {
+    "id": "MIT",
+    "label": "West Samoa Time"
+  },
+  "Pacific/Apia": {
+    "id": "Pacific/Apia",
+    "label": "West Samoa Time"
+  },
+  "Pacific/Niue": {
+    "id": "Pacific/Niue",
+    "label": "Niue Time"
+  },
+  "Pacific/Pago_Pago": {
+    "id": "Pacific/Pago_Pago",
+    "label": "Samoa Standard Time"
+  },
+  "America/Adak": {
+    "id": "America/Adak",
+    "label": "Hawaii-Aleutian Standard Time"
+  },
+  "HST": {
+    "id": "HST",
+    "label": "Hawaii Standard Time"
+  },
+  "Pacific/Fakaofo": {
+    "id": "Pacific/Fakaofo",
+    "label": "Tokelau Time"
+  },
+  "Pacific/Honolulu": {
+    "id": "Pacific/Honolulu",
+    "label": "Hawaii Standard Time"
+  },
+  "Pacific/Rarotonga": {
+    "id": "Pacific/Rarotonga",
+    "label": "Cook Is. Time"
+  },
+  "Pacific/Tahiti": {
+    "id": "Pacific/Tahiti",
+    "label": "Tahiti Time"
+  },
+  "Pacific/Marquesas": {
+    "id": "Pacific/Marquesas",
+    "label": "Marquesas Time"
+  },
+  "AST": {
+    "id": "AST",
+    "label": "Alaska Standard Time"
+  },
+  "America/Anchorage": {
+    "id": "America/Anchorage",
+    "label": "Alaska Standard Time"
+  },
+  "Pacific/Gambier": {
+    "id": "Pacific/Gambier",
+    "label": "Gambier Time"
+  },
+  "America/Los_Angeles": {
+    "id": "America/Los_Angeles",
+    "label": "Pacific Standard Time"
+  },
+  "America/Tijuana": {
+    "id": "America/Tijuana",
+    "label": "Pacific Standard Time"
+  },
+  "America/Vancouver": {
+    "id": "America/Vancouver",
+    "label": "Pacific Standard Time"
+  },
+  "PST": {
+    "id": "PST",
+    "label": "Pacific Standard Time"
+  },
+  "Pacific/Pitcairn": {
+    "id": "Pacific/Pitcairn",
+    "label": "Pitcairn Standard Time"
+  },
+  "America/Dawson_Creek": {
+    "id": "America/Dawson_Creek",
+    "label": "Mountain Standard Time"
+  },
+  "America/Denver": {
+    "id": "America/Denver",
+    "label": "Mountain Standard Time"
+  },
+  "America/Edmonton": {
+    "id": "America/Edmonton",
+    "label": "Mountain Standard Time"
+  },
+  "America/Mazatlan": {
+    "id": "America/Mazatlan",
+    "label": "Mountain Standard Time"
+  },
+  "America/Phoenix": {
+    "id": "America/Phoenix",
+    "label": "Mountain Standard Time"
+  },
+  "MST": {
+    "id": "MST",
+    "label": "Mountain Standard Time"
+  },
+  "PNT": {
+    "id": "PNT",
+    "label": "Mountain Standard Time"
+  },
+  "America/Belize": {
+    "id": "America/Belize",
+    "label": "Central Standard Time"
+  },
+  "America/Chicago": {
+    "id": "America/Chicago",
+    "label": "Central Standard Time"
+  },
+  "America/Costa_Rica": {
+    "id": "America/Costa_Rica",
+    "label": "Central Standard Time"
+  },
+  "America/El_Salvador": {
+    "id": "America/El_Salvador",
+    "label": "Central Standard Time"
+  },
+  "America/Guatemala": {
+    "id": "America/Guatemala",
+    "label": "Central Standard Time"
+  },
+  "America/Managua": {
+    "id": "America/Managua",
+    "label": "Central Standard Time"
+  },
+  "America/Mexico_City": {
+    "id": "America/Mexico_City",
+    "label": "Central Standard Time"
+  },
+  "America/Regina": {
+    "id": "America/Regina",
+    "label": "Central Standard Time"
+  },
+  "America/Tegucigalpa": {
+    "id": "America/Tegucigalpa",
+    "label": "Central Standard Time"
+  },
+  "America/Winnipeg": {
+    "id": "America/Winnipeg",
+    "label": "Central Standard Time"
+  },
+  "CST": {
+    "id": "CST",
+    "label": "Central Standard Time"
+  },
+  "Pacific/Easter": {
+    "id": "Pacific/Easter",
+    "label": "Easter Is. Time"
+  },
+  "Pacific/Galapagos": {
+    "id": "Pacific/Galapagos",
+    "label": "Galapagos Time"
+  },
+  "America/Bogota": {
+    "id": "America/Bogota",
+    "label": "Colombia Time"
+  },
+  "America/Cayman": {
+    "id": "America/Cayman",
+    "label": "Eastern Standard Time"
+  },
+  "America/Grand_Turk": {
+    "id": "America/Grand_Turk",
+    "label": "Eastern Standard Time"
+  },
+  "America/Guayaquil": {
+    "id": "America/Guayaquil",
+    "label": "Ecuador Time"
+  },
+  "America/Havana": {
+    "id": "America/Havana",
+    "label": "Central Standard Time"
+  },
+  "America/Indianapolis": {
+    "id": "America/Indianapolis",
+    "label": "Eastern Standard Time"
+  },
+  "America/Jamaica": {
+    "id": "America/Jamaica",
+    "label": "Eastern Standard Time"
+  },
+  "America/Lima": {
+    "id": "America/Lima",
+    "label": "Peru Time"
+  },
+  "America/Montreal": {
+    "id": "America/Montreal",
+    "label": "Eastern Standard Time"
+  },
+  "America/Nassau": {
+    "id": "America/Nassau",
+    "label": "Eastern Standard Time"
+  },
+  "America/New_York": {
+    "id": "America/New_York",
+    "label": "Eastern Standard Time"
+  },
+  "America/Panama": {
+    "id": "America/Panama",
+    "label": "Eastern Standard Time"
+  },
+  "America/Port-au-Prince": {
+    "id": "America/Port-au-Prince",
+    "label": "Eastern Standard Time"
+  },
+  "America/Porto_Acre": {
+    "id": "America/Porto_Acre",
+    "label": "Acre Time"
+  },
+  "America/Rio_Branco": {
+    "id": "America/Rio_Branco",
+    "label": "GMT-05: 00"
+  },
+  "EST": {
+    "id": "EST",
+    "label": "Eastern Standard Time"
+  },
+  "IET": {
+    "id": "IET",
+    "label": "Eastern Standard Time"
+  },
+  "America/Anguilla": {
+    "id": "America/Anguilla",
+    "label": "Atlantic Standard Time"
+  },
+  "America/Antigua": {
+    "id": "America/Antigua",
+    "label": "Atlantic Standard Time"
+  },
+  "America/Aruba": {
+    "id": "America/Aruba",
+    "label": "Atlantic Standard Time"
+  },
+  "America/Asuncion": {
+    "id": "America/Asuncion",
+    "label": "Paraguay Time"
+  },
+  "America/Barbados": {
+    "id": "America/Barbados",
+    "label": "Atlantic Standard Time"
+  },
+  "America/Caracas": {
+    "id": "America/Caracas",
+    "label": "Venezuela Time"
+  },
+  "America/Cuiaba": {
+    "id": "America/Cuiaba",
+    "label": "Amazon Standard Time"
+  },
+  "America/Curacao": {
+    "id": "America/Curacao",
+    "label": "Atlantic Standard Time"
+  },
+  "America/Dominica": {
+    "id": "America/Dominica",
+    "label": "Atlantic Standard Time"
+  },
+  "America/Grenada": {
+    "id": "America/Grenada",
+    "label": "Atlantic Standard Time"
+  },
+  "America/Guadeloupe": {
+    "id": "America/Guadeloupe",
+    "label": "Atlantic Standard Time"
+  },
+  "America/Guyana": {
+    "id": "America/Guyana",
+    "label": "Guyana Time"
+  },
+  "America/Halifax": {
+    "id": "America/Halifax",
+    "label": "Atlantic Standard Time"
+  },
+  "America/La_Paz": {
+    "id": "America/La_Paz",
+    "label": "Bolivia Time"
+  },
+  "America/Manaus": {
+    "id": "America/Manaus",
+    "label": "Amazon Standard Time"
+  },
+  "America/Martinique": {
+    "id": "America/Martinique",
+    "label": "Atlantic Standard Time"
+  },
+  "America/Montserrat": {
+    "id": "America/Montserrat",
+    "label": "Atlantic Standard Time"
+  },
+  "America/Port_of_Spain": {
+    "id": "America/Port_of_Spain",
+    "label": "Atlantic Standard Time"
+  },
+  "America/Puerto_Rico": {
+    "id": "America/Puerto_Rico",
+    "label": "Atlantic Standard Time"
+  },
+  "America/Santiago": {
+    "id": "America/Santiago",
+    "label": "Chile Time"
+  },
+  "America/Santo_Domingo": {
+    "id": "America/Santo_Domingo",
+    "label": "Atlantic Standard Time"
+  },
+  "America/St_Kitts": {
+    "id": "America/St_Kitts",
+    "label": "Atlantic Standard Time"
+  },
+  "America/St_Lucia": {
+    "id": "America/St_Lucia",
+    "label": "Atlantic Standard Time"
+  },
+  "America/St_Thomas": {
+    "id": "America/St_Thomas",
+    "label": "Atlantic Standard Time"
+  },
+  "America/St_Vincent": {
+    "id": "America/St_Vincent",
+    "label": "Atlantic Standard Time"
+  },
+  "America/Thule": {
+    "id": "America/Thule",
+    "label": "Atlantic Standard Time"
+  },
+  "America/Tortola": {
+    "id": "America/Tortola",
+    "label": "Atlantic Standard Time"
+  },
+  "Antarctica/Palmer": {
+    "id": "Antarctica/Palmer",
+    "label": "Chile Time"
+  },
+  "Atlantic/Bermuda": {
+    "id": "Atlantic/Bermuda",
+    "label": "Atlantic Standard Time"
+  },
+  "Atlantic/Stanley": {
+    "id": "Atlantic/Stanley",
+    "label": "Falkland Is. Time"
+  },
+  "PRT": {
+    "id": "PRT",
+    "label": "Atlantic Standard Time"
+  },
+  "America/St_Johns": {
+    "id": "America/St_Johns",
+    "label": "Newfoundland Standard Time"
+  },
+  "CNT": {
+    "id": "CNT",
+    "label": "Newfoundland Standard Time"
+  },
+  "AGT": {
+    "id": "AGT",
+    "label": "Argentine Time"
+  },
+  "America/Buenos_Aires": {
+    "id": "America/Buenos_Aires",
+    "label": "Argentine Time"
+  },
+  "America/Cayenne": {
+    "id": "America/Cayenne",
+    "label": "French Guiana Time"
+  },
+  "America/Fortaleza": {
+    "id": "America/Fortaleza",
+    "label": "Brazil Time"
+  },
+  "America/Godthab": {
+    "id": "America/Godthab",
+    "label": "Western Greenland Time"
+  },
+  "America/Miquelon": {
+    "id": "America/Miquelon",
+    "label": "Pierre & Miquelon Standard Time"
+  },
+  "America/Montevideo": {
+    "id": "America/Montevideo",
+    "label": "Uruguay Time"
+  },
+  "America/Paramaribo": {
+    "id": "America/Paramaribo",
+    "label": "Suriname Time"
+  },
+  "America/Sao_Paulo": {
+    "id": "America/Sao_Paulo",
+    "label": "Brazil Time"
+  },
+  "BET": {
+    "id": "BET",
+    "label": "Brazil Time"
+  },
+  "America/Noronha": {
+    "id": "America/Noronha",
+    "label": "Fernando de Noronha Time"
+  },
+  "Atlantic/South_Georgia": {
+    "id": "Atlantic/South_Georgia",
+    "label": "South Georgia Standard Time"
+  },
+  "America/Scoresbysund": {
+    "id": "America/Scoresbysund",
+    "label": "Eastern Greenland Time"
+  },
+  "Atlantic/Azores": {
+    "id": "Atlantic/Azores",
+    "label": "Azores Time"
+  },
+  "Atlantic/Cape_Verde": {
+    "id": "Atlantic/Cape_Verde",
+    "label": "Cape Verde Time"
+  },
+  "Atlantic/Jan_Mayen": {
+    "id": "Atlantic/Jan_Mayen",
+    "label": "Eastern Greenland Time"
+  },
+  "Africa/Abidjan": {
+    "id": "Africa/Abidjan",
+    "label": "Greenwich Mean Time"
+  },
+  "Africa/Accra": {
+    "id": "Africa/Accra",
+    "label": "Greenwich Mean Time"
+  },
+  "Africa/Banjul": {
+    "id": "Africa/Banjul",
+    "label": "Greenwich Mean Time"
+  },
+  "Africa/Bissau": {
+    "id": "Africa/Bissau",
+    "label": "Greenwich Mean Time"
+  },
+  "Africa/Casablanca": {
+    "id": "Africa/Casablanca",
+    "label": "Western European Time"
+  },
+  "Africa/Conakry": {
+    "id": "Africa/Conakry",
+    "label": "Greenwich Mean Time"
+  },
+  "Africa/Dakar": {
+    "id": "Africa/Dakar",
+    "label": "Greenwich Mean Time"
+  },
+  "Africa/Freetown": {
+    "id": "Africa/Freetown",
+    "label": "Greenwich Mean Time"
+  },
+  "Africa/Lome": {
+    "id": "Africa/Lome",
+    "label": "Greenwich Mean Time"
+  },
+  "Africa/Monrovia": {
+    "id": "Africa/Monrovia",
+    "label": "Greenwich Mean Time"
+  },
+  "Africa/Nouakchott": {
+    "id": "Africa/Nouakchott",
+    "label": "Greenwich Mean Time"
+  },
+  "Africa/Ouagadougou": {
+    "id": "Africa/Ouagadougou",
+    "label": "Greenwich Mean Time"
+  },
+  "Africa/Sao_Tome": {
+    "id": "Africa/Sao_Tome",
+    "label": "Greenwich Mean Time"
+  },
+  "Africa/Timbuktu": {
+    "id": "Africa/Timbuktu",
+    "label": "Greenwich Mean Time"
+  },
+  "Atlantic/Canary": {
+    "id": "Atlantic/Canary",
+    "label": "Western European Time"
+  },
+  "Atlantic/Faeroe": {
+    "id": "Atlantic/Faeroe",
+    "label": "Western European Time"
+  },
+  "Atlantic/Reykjavik": {
+    "id": "Atlantic/Reykjavik",
+    "label": "Greenwich Mean Time"
+  },
+  "Atlantic/St_Helena": {
+    "id": "Atlantic/St_Helena",
+    "label": "Greenwich Mean Time"
+  },
+  "Europe/Dublin": {
+    "id": "Europe/Dublin",
+    "label": "Greenwich Mean Time"
+  },
+  "Europe/Lisbon": {
+    "id": "Europe/Lisbon",
+    "label": "Western European Time"
+  },
+  "Europe/London": {
+    "id": "Europe/London",
+    "label": "Greenwich Mean Time"
+  },
+  "GMT": {
+    "id": "GMT",
+    "label": "Greenwich Mean Time"
+  },
+  "UTC": {
+    "id": "UTC",
+    "label": "Coordinated Universal Time"
+  },
+  "WET": {
+    "id": "WET",
+    "label": "Western European Time"
+  },
+  "Africa/Algiers": {
+    "id": "Africa/Algiers",
+    "label": "Central European Time"
+  },
+  "Africa/Bangui": {
+    "id": "Africa/Bangui",
+    "label": "Western African Time"
+  },
+  "Africa/Douala": {
+    "id": "Africa/Douala",
+    "label": "Western African Time"
+  },
+  "Africa/Kinshasa": {
+    "id": "Africa/Kinshasa",
+    "label": "Western African Time"
+  },
+  "Africa/Lagos": {
+    "id": "Africa/Lagos",
+    "label": "Western African Time"
+  },
+  "Africa/Libreville": {
+    "id": "Africa/Libreville",
+    "label": "Western African Time"
+  },
+  "Africa/Luanda": {
+    "id": "Africa/Luanda",
+    "label": "Western African Time"
+  },
+  "Africa/Malabo": {
+    "id": "Africa/Malabo",
+    "label": "Western African Time"
+  },
+  "Africa/Ndjamena": {
+    "id": "Africa/Ndjamena",
+    "label": "Western African Time"
+  },
+  "Africa/Niamey": {
+    "id": "Africa/Niamey",
+    "label": "Western African Time"
+  },
+  "Africa/Porto-Novo": {
+    "id": "Africa/Porto-Novo",
+    "label": "Western African Time"
+  },
+  "Africa/Tunis": {
+    "id": "Africa/Tunis",
+    "label": "Central European Time"
+  },
+  "Africa/Windhoek": {
+    "id": "Africa/Windhoek",
+    "label": "Western African Time"
+  },
+  "ECT": {
+    "id": "ECT",
+    "label": "Central European Time"
+  },
+  "Europe/Amsterdam": {
+    "id": "Europe/Amsterdam",
+    "label": "Central European Time"
+  },
+  "Europe/Andorra": {
+    "id": "Europe/Andorra",
+    "label": "Central European Time"
+  },
+  "Europe/Belgrade": {
+    "id": "Europe/Belgrade",
+    "label": "Central European Time"
+  },
+  "Europe/Berlin": {
+    "id": "Europe/Berlin",
+    "label": "Central European Time"
+  },
+  "Europe/Brussels": {
+    "id": "Europe/Brussels",
+    "label": "Central European Time"
+  },
+  "Europe/Budapest": {
+    "id": "Europe/Budapest",
+    "label": "Central European Time"
+  },
+  "Europe/Copenhagen": {
+    "id": "Europe/Copenhagen",
+    "label": "Central European Time"
+  },
+  "Europe/Gibraltar": {
+    "id": "Europe/Gibraltar",
+    "label": "Central European Time"
+  },
+  "Europe/Luxembourg": {
+    "id": "Europe/Luxembourg",
+    "label": "Central European Time"
+  },
+  "Europe/Madrid": {
+    "id": "Europe/Madrid",
+    "label": "Central European Time"
+  },
+  "Europe/Malta": {
+    "id": "Europe/Malta",
+    "label": "Central European Time"
+  },
+  "Europe/Monaco": {
+    "id": "Europe/Monaco",
+    "label": "Central European Time"
+  },
+  "Europe/Oslo": {
+    "id": "Europe/Oslo",
+    "label": "Central European Time"
+  },
+  "Europe/Paris": {
+    "id": "Europe/Paris",
+    "label": "Central European Time"
+  },
+  "Europe/Prague": {
+    "id": "Europe/Prague",
+    "label": "Central European Time"
+  },
+  "Europe/Rome": {
+    "id": "Europe/Rome",
+    "label": "Central European Time"
+  },
+  "Europe/Stockholm": {
+    "id": "Europe/Stockholm",
+    "label": "Central European Time"
+  },
+  "Europe/Tirane": {
+    "id": "Europe/Tirane",
+    "label": "Central European Time"
+  },
+  "Europe/Vaduz": {
+    "id": "Europe/Vaduz",
+    "label": "Central European Time"
+  },
+  "Europe/Vienna": {
+    "id": "Europe/Vienna",
+    "label": "Central European Time"
+  },
+  "Europe/Warsaw": {
+    "id": "Europe/Warsaw",
+    "label": "Central European Time"
+  },
+  "Europe/Zurich": {
+    "id": "Europe/Zurich",
+    "label": "Central European Time"
+  },
+  "ART": {
+    "id": "ART",
+    "label": "Eastern European Time"
+  },
+  "Africa/Blantyre": {
+    "id": "Africa/Blantyre",
+    "label": "Central African Time"
+  },
+  "Africa/Bujumbura": {
+    "id": "Africa/Bujumbura",
+    "label": "Central African Time"
+  },
+  "Africa/Cairo": {
+    "id": "Africa/Cairo",
+    "label": "Eastern European Time"
+  },
+  "Africa/Gaborone": {
+    "id": "Africa/Gaborone",
+    "label": "Central African Time"
+  },
+  "Africa/Harare": {
+    "id": "Africa/Harare",
+    "label": "Central African Time"
+  },
+  "Africa/Johannesburg": {
+    "id": "Africa/Johannesburg",
+    "label": "South Africa Standard Time"
+  },
+  "Africa/Kigali": {
+    "id": "Africa/Kigali",
+    "label": "Central African Time"
+  },
+  "Africa/Lubumbashi": {
+    "id": "Africa/Lubumbashi",
+    "label": "Central African Time"
+  },
+  "Africa/Lusaka": {
+    "id": "Africa/Lusaka",
+    "label": "Central African Time"
+  },
+  "Africa/Maputo": {
+    "id": "Africa/Maputo",
+    "label": "Central African Time"
+  },
+  "Africa/Maseru": {
+    "id": "Africa/Maseru",
+    "label": "South Africa Standard Time"
+  },
+  "Africa/Mbabane": {
+    "id": "Africa/Mbabane",
+    "label": "South Africa Standard Time"
+  },
+  "Africa/Tripoli": {
+    "id": "Africa/Tripoli",
+    "label": "Eastern European Time"
+  },
+  "Asia/Amman": {
+    "id": "Asia/Amman",
+    "label": "Eastern European Time"
+  },
+  "Asia/Beirut": {
+    "id": "Asia/Beirut",
+    "label": "Eastern European Time"
+  },
+  "Asia/Damascus": {
+    "id": "Asia/Damascus",
+    "label": "Eastern European Time"
+  },
+  "Asia/Jerusalem": {
+    "id": "Asia/Jerusalem",
+    "label": "Israel Standard Time"
+  },
+  "Asia/Nicosia": {
+    "id": "Asia/Nicosia",
+    "label": "Eastern European Time"
+  },
+  "CAT": {
+    "id": "CAT",
+    "label": "Central African Time"
+  },
+  "EET": {
+    "id": "EET",
+    "label": "Eastern European Time"
+  },
+  "Europe/Athens": {
+    "id": "Europe/Athens",
+    "label": "Eastern European Time"
+  },
+  "Europe/Bucharest": {
+    "id": "Europe/Bucharest",
+    "label": "Eastern European Time"
+  },
+  "Europe/Chisinau": {
+    "id": "Europe/Chisinau",
+    "label": "Eastern European Time"
+  },
+  "Europe/Helsinki": {
+    "id": "Europe/Helsinki",
+    "label": "Eastern European Time"
+  },
+  "Europe/Istanbul": {
+    "id": "Europe/Istanbul",
+    "label": "Eastern European Time"
+  },
+  "Europe/Kaliningrad": {
+    "id": "Europe/Kaliningrad",
+    "label": "Eastern European Time"
+  },
+  "Europe/Kiev": {
+    "id": "Europe/Kiev",
+    "label": "Eastern European Time"
+  },
+  "Europe/Minsk": {
+    "id": "Europe/Minsk",
+    "label": "Eastern European Time"
+  },
+  "Europe/Riga": {
+    "id": "Europe/Riga",
+    "label": "Eastern European Time"
+  },
+  "Europe/Simferopol": {
+    "id": "Europe/Simferopol",
+    "label": "Eastern European Time"
+  },
+  "Europe/Sofia": {
+    "id": "Europe/Sofia",
+    "label": "Eastern European Time"
+  },
+  "Europe/Tallinn": {
+    "id": "Europe/Tallinn",
+    "label": "Eastern European Time"
+  },
+  "Europe/Vilnius": {
+    "id": "Europe/Vilnius",
+    "label": "Eastern European Time"
+  },
+  "Africa/Addis_Ababa": {
+    "id": "Africa/Addis_Ababa",
+    "label": "Eastern African Time"
+  },
+  "Africa/Asmera": {
+    "id": "Africa/Asmera",
+    "label": "Eastern African Time"
+  },
+  "Africa/Dar_es_Salaam": {
+    "id": "Africa/Dar_es_Salaam",
+    "label": "Eastern African Time"
+  },
+  "Africa/Djibouti": {
+    "id": "Africa/Djibouti",
+    "label": "Eastern African Time"
+  },
+  "Africa/Kampala": {
+    "id": "Africa/Kampala",
+    "label": "Eastern African Time"
+  },
+  "Africa/Khartoum": {
+    "id": "Africa/Khartoum",
+    "label": "Eastern African Time"
+  },
+  "Africa/Mogadishu": {
+    "id": "Africa/Mogadishu",
+    "label": "Eastern African Time"
+  },
+  "Africa/Nairobi": {
+    "id": "Africa/Nairobi",
+    "label": "Eastern African Time"
+  },
+  "Asia/Aden": {
+    "id": "Asia/Aden",
+    "label": "Arabia Standard Time"
+  },
+  "Asia/Baghdad": {
+    "id": "Asia/Baghdad",
+    "label": "Arabia Standard Time"
+  },
+  "Asia/Bahrain": {
+    "id": "Asia/Bahrain",
+    "label": "Arabia Standard Time"
+  },
+  "Asia/Kuwait": {
+    "id": "Asia/Kuwait",
+    "label": "Arabia Standard Time"
+  },
+  "Asia/Qatar": {
+    "id": "Asia/Qatar",
+    "label": "Arabia Standard Time"
+  },
+  "Asia/Riyadh": {
+    "id": "Asia/Riyadh",
+    "label": "Arabia Standard Time"
+  },
+  "EAT": {
+    "id": "EAT",
+    "label": "Eastern African Time"
+  },
+  "Europe/Moscow": {
+    "id": "Europe/Moscow",
+    "label": "Moscow Standard Time"
+  },
+  "Indian/Antananarivo": {
+    "id": "Indian/Antananarivo",
+    "label": "Eastern African Time"
+  },
+  "Indian/Comoro": {
+    "id": "Indian/Comoro",
+    "label": "Eastern African Time"
+  },
+  "Indian/Mayotte": {
+    "id": "Indian/Mayotte",
+    "label": "Eastern African Time"
+  },
+  "Asia/Tehran": {
+    "id": "Asia/Tehran",
+    "label": "Iran Time"
+  },
+  "MET": {
+    "id": "MET",
+    "label": "Iran Time"
+  },
+  "Asia/Aqtau": {
+    "id": "Asia/Aqtau",
+    "label": "Aqtau Time"
+  },
+  "Asia/Baku": {
+    "id": "Asia/Baku",
+    "label": "Azerbaijan Time"
+  },
+  "Asia/Dubai": {
+    "id": "Asia/Dubai",
+    "label": "Gulf Standard Time"
+  },
+  "Asia/Muscat": {
+    "id": "Asia/Muscat",
+    "label": "Gulf Standard Time"
+  },
+  "Asia/Tbilisi": {
+    "id": "Asia/Tbilisi",
+    "label": "Georgia Time"
+  },
+  "Asia/Yerevan": {
+    "id": "Asia/Yerevan",
+    "label": "Armenia Time"
+  },
+  "Europe/Samara": {
+    "id": "Europe/Samara",
+    "label": "Samara Time"
+  },
+  "Indian/Mahe": {
+    "id": "Indian/Mahe",
+    "label": "Seychelles Time"
+  },
+  "Indian/Mauritius": {
+    "id": "Indian/Mauritius",
+    "label": "Mauritius Time"
+  },
+  "Indian/Reunion": {
+    "id": "Indian/Reunion",
+    "label": "Reunion Time"
+  },
+  "NET": {
+    "id": "NET",
+    "label": "Armenia Time"
+  },
+  "Asia/Kabul": {
+    "id": "Asia/Kabul",
+    "label": "Afghanistan Time"
+  },
+  "Asia/Aqtobe": {
+    "id": "Asia/Aqtobe",
+    "label": "Aqtobe Time"
+  },
+  "Asia/Ashgabat": {
+    "id": "Asia/Ashgabat",
+    "label": "Turkmenistan Time"
+  },
+  "Asia/Ashkhabad": {
+    "id": "Asia/Ashkhabad",
+    "label": "Turkmenistan Time"
+  },
+  "Asia/Bishkek": {
+    "id": "Asia/Bishkek",
+    "label": "Kirgizstan Time"
+  },
+  "Asia/Dushanbe": {
+    "id": "Asia/Dushanbe",
+    "label": "Tajikistan Time"
+  },
+  "Asia/Karachi": {
+    "id": "Asia/Karachi",
+    "label": "Pakistan Time"
+  },
+  "Asia/Tashkent": {
+    "id": "Asia/Tashkent",
+    "label": "Uzbekistan Time"
+  },
+  "Asia/Yekaterinburg": {
+    "id": "Asia/Yekaterinburg",
+    "label": "Yekaterinburg Time"
+  },
+  "Indian/Chagos": {
+    "id": "Indian/Chagos",
+    "label": "Indian Ocean Territory Time"
+  },
+  "Indian/Kerguelen": {
+    "id": "Indian/Kerguelen",
+    "label": "French Southern & Antarctic Lands Time"
+  },
+  "Indian/Maldives": {
+    "id": "Indian/Maldives",
+    "label": "Maldives Time"
+  },
+  "PLT": {
+    "id": "PLT",
+    "label": "Pakistan Time"
+  },
+  "Asia/Calcutta": {
+    "id": "Asia/Calcutta",
+    "label": "India Standard Time"
+  },
+  "IST": {
+    "id": "IST",
+    "label": "India Standard Time"
+  },
+  "Asia/Katmandu": {
+    "id": "Asia/Katmandu",
+    "label": "Nepal Time"
+  },
+  "Antarctica/Mawson": {
+    "id": "Antarctica/Mawson",
+    "label": "Mawson Time"
+  },
+  "Asia/Almaty": {
+    "id": "Asia/Almaty",
+    "label": "Alma-Ata Time"
+  },
+  "Asia/Colombo": {
+    "id": "Asia/Colombo",
+    "label": "Sri Lanka Time"
+  },
+  "Asia/Dacca": {
+    "id": "Asia/Dacca",
+    "label": "Bangladesh Time"
+  },
+  "Asia/Dhaka": {
+    "id": "Asia/Dhaka",
+    "label": "Bangladesh Time"
+  },
+  "Asia/Novosibirsk": {
+    "id": "Asia/Novosibirsk",
+    "label": "Novosibirsk Time"
+  },
+  "Asia/Thimbu": {
+    "id": "Asia/Thimbu",
+    "label": "Bhutan Time"
+  },
+  "Asia/Thimphu": {
+    "id": "Asia/Thimphu",
+    "label": "Bhutan Time"
+  },
+  "BST": {
+    "id": "BST",
+    "label": "Bangladesh Time"
+  },
+  "Asia/Rangoon": {
+    "id": "Asia/Rangoon",
+    "label": "Myanmar Time"
+  },
+  "Indian/Cocos": {
+    "id": "Indian/Cocos",
+    "label": "Cocos Islands Time"
+  },
+  "Asia/Bangkok": {
+    "id": "Asia/Bangkok",
+    "label": "Indochina Time"
+  },
+  "Asia/Jakarta": {
+    "id": "Asia/Jakarta",
+    "label": "Java Time"
+  },
+  "Asia/Krasnoyarsk": {
+    "id": "Asia/Krasnoyarsk",
+    "label": "Krasnoyarsk Time"
+  },
+  "Asia/Phnom_Penh": {
+    "id": "Asia/Phnom_Penh",
+    "label": "Indochina Time"
+  },
+  "Asia/Saigon": {
+    "id": "Asia/Saigon",
+    "label": "Indochina Time"
+  },
+  "Asia/Vientiane": {
+    "id": "Asia/Vientiane",
+    "label": "Indochina Time"
+  },
+  "Indian/Christmas": {
+    "id": "Indian/Christmas",
+    "label": "Christmas Island Time"
+  },
+  "VST": {
+    "id": "VST",
+    "label": "Indochina Time"
+  },
+  "Antarctica/Casey": {
+    "id": "Antarctica/Casey",
+    "label": "Western Standard Time (Australia)"
+  },
+  "Asia/Brunei": {
+    "id": "Asia/Brunei",
+    "label": "Brunei Time"
+  },
+  "Asia/Hong_Kong": {
+    "id": "Asia/Hong_Kong",
+    "label": "Hong Kong Time"
+  },
+  "Asia/Irkutsk": {
+    "id": "Asia/Irkutsk",
+    "label": "Irkutsk Time"
+  },
+  "Asia/Kuala_Lumpur": {
+    "id": "Asia/Kuala_Lumpur",
+    "label": "Malaysia Time"
+  },
+  "Asia/Macao": {
+    "id": "Asia/Macao",
+    "label": "China Standard Time"
+  },
+  "Asia/Manila": {
+    "id": "Asia/Manila",
+    "label": "Philippines Time"
+  },
+  "Asia/Shanghai": {
+    "id": "Asia/Shanghai",
+    "label": "China Standard Time"
+  },
+  "Asia/Singapore": {
+    "id": "Asia/Singapore",
+    "label": "Singapore Time"
+  },
+  "Asia/Taipei": {
+    "id": "Asia/Taipei",
+    "label": "China Standard Time"
+  },
+  "Asia/Ujung_Pandang": {
+    "id": "Asia/Ujung_Pandang",
+    "label": "Borneo Time"
+  },
+  "Asia/Ulaanbaatar": {
+    "id": "Asia/Ulaanbaatar",
+    "label": "Ulaanbaatar Time"
+  },
+  "Asia/Ulan_Bator": {
+    "id": "Asia/Ulan_Bator",
+    "label": "Ulaanbaatar Time"
+  },
+  "Australia/Perth": {
+    "id": "Australia/Perth",
+    "label": "Western Standard Time (Australia)"
+  },
+  "CTT": {
+    "id": "CTT",
+    "label": "China Standard Time"
+  },
+  "Asia/Jayapura": {
+    "id": "Asia/Jayapura",
+    "label": "Jayapura Time"
+  },
+  "Asia/Pyongyang": {
+    "id": "Asia/Pyongyang",
+    "label": "Korea Standard Time"
+  },
+  "Asia/Seoul": {
+    "id": "Asia/Seoul",
+    "label": "Korea Standard Time"
+  },
+  "Asia/Tokyo": {
+    "id": "Asia/Tokyo",
+    "label": "Japan Standard Time"
+  },
+  "Asia/Yakutsk": {
+    "id": "Asia/Yakutsk",
+    "label": "Yakutsk Time"
+  },
+  "JST": {
+    "id": "JST",
+    "label": "Japan Standard Time"
+  },
+  "Pacific/Palau": {
+    "id": "Pacific/Palau",
+    "label": "Palau Time"
+  },
+  "ACT": {
+    "id": "ACT",
+    "label": "Central Standard Time (Northern Territory)"
+  },
+  "Australia/Adelaide": {
+    "id": "Australia/Adelaide",
+    "label": "Central Standard Time (South Australia)"
+  },
+  "Australia/Broken_Hill": {
+    "id": "Australia/Broken_Hill",
+    "label": "Central Standard Time (South Australia/New South Wales)"
+  },
+  "Australia/Darwin": {
+    "id": "Australia/Darwin",
+    "label": "Central Standard Time (Northern Territory)"
+  },
+  "AET": {
+    "id": "AET",
+    "label": "Eastern Standard Time (New South Wales)"
+  },
+  "Antarctica/DumontDUrville": {
+    "id": "Antarctica/DumontDUrville",
+    "label": "Dumont-d'Urville Time"
+  },
+  "Asia/Vladivostok": {
+    "id": "Asia/Vladivostok",
+    "label": "Vladivostok Time"
+  },
+  "Australia/Brisbane": {
+    "id": "Australia/Brisbane",
+    "label": "Eastern Standard Time (Queensland)"
+  },
+  "Australia/Hobart": {
+    "id": "Australia/Hobart",
+    "label": "Eastern Standard Time (Tasmania)"
+  },
+  "Australia/Sydney": {
+    "id": "Australia/Sydney",
+    "label": "Eastern Standard Time (New South Wales)"
+  },
+  "Pacific/Guam": {
+    "id": "Pacific/Guam",
+    "label": "Chamorro Standard Time"
+  },
+  "Pacific/Port_Moresby": {
+    "id": "Pacific/Port_Moresby",
+    "label": "Papua New Guinea Time"
+  },
+  "Pacific/Saipan": {
+    "id": "Pacific/Saipan",
+    "label": "Chamorro Standard Time"
+  },
+  "Pacific/Truk": {
+    "id": "Pacific/Truk",
+    "label": "Truk Time"
+  },
+  "Australia/Lord_Howe": {
+    "id": "Australia/Lord_Howe",
+    "label": "Load Howe Standard Time"
+  },
+  "Asia/Magadan": {
+    "id": "Asia/Magadan",
+    "label": "Magadan Time"
+  },
+  "Pacific/Efate": {
+    "id": "Pacific/Efate",
+    "label": "Vanuatu Time"
+  },
+  "Pacific/Guadalcanal": {
+    "id": "Pacific/Guadalcanal",
+    "label": "Solomon Is. Time"
+  },
+  "Pacific/Kosrae": {
+    "id": "Pacific/Kosrae",
+    "label": "Kosrae Time"
+  },
+  "Pacific/Noumea": {
+    "id": "Pacific/Noumea",
+    "label": "New Caledonia Time"
+  },
+  "Pacific/Ponape": {
+    "id": "Pacific/Ponape",
+    "label": "Ponape Time"
+  },
+  "SST": {
+    "id": "SST",
+    "label": "Solomon Is. Time"
+  },
+  "Pacific/Norfolk": {
+    "id": "Pacific/Norfolk",
+    "label": "Norfolk Time"
+  },
+  "Antarctica/McMurdo": {
+    "id": "Antarctica/McMurdo",
+    "label": "New Zealand Standard Time"
+  },
+  "Asia/Anadyr": {
+    "id": "Asia/Anadyr",
+    "label": "Anadyr Time"
+  },
+  "Asia/Kamchatka": {
+    "id": "Asia/Kamchatka",
+    "label": "Petropavlovsk-Kamchatski Time"
+  },
+  "NST": {
+    "id": "NST",
+    "label": "New Zealand Standard Time"
+  },
+  "Pacific/Auckland": {
+    "id": "Pacific/Auckland",
+    "label": "New Zealand Standard Time"
+  },
+  "Pacific/Fiji": {
+    "id": "Pacific/Fiji",
+    "label": "Fiji Time"
+  },
+  "Pacific/Funafuti": {
+    "id": "Pacific/Funafuti",
+    "label": "Tuvalu Time"
+  },
+  "Pacific/Majuro": {
+    "id": "Pacific/Majuro",
+    "label": "Marshall Islands Time"
+  },
+  "Pacific/Nauru": {
+    "id": "Pacific/Nauru",
+    "label": "Nauru Time"
+  },
+  "Pacific/Tarawa": {
+    "id": "Pacific/Tarawa",
+    "label": "Gilbert Is. Time"
+  },
+  "Pacific/Wake": {
+    "id": "Pacific/Wake",
+    "label": "Wake Time"
+  },
+  "Pacific/Wallis": {
+    "id": "Pacific/Wallis",
+    "label": "Wallis & Futuna Time"
+  },
+  "Pacific/Chatham": {
+    "id": "Pacific/Chatham",
+    "label": "Chatham Standard Time"
+  },
+  "Pacific/Enderbury": {
+    "id": "Pacific/Enderbury",
+    "label": "Phoenix Is. Time"
+  },
+  "Pacific/Tongatapu": {
+    "id": "Pacific/Tongatapu",
+    "label": "Tonga Time"
+  },
+  "Pacific/Kiritimati": {
+    "id": "Pacific/Kiritimati",
+    "label": "Line Is. Time"
+  }
+}
